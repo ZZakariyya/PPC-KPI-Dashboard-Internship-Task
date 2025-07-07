@@ -1,0 +1,2 @@
+-- SQL schema for PPC KPI Dashboard
+-- Define tables and relationships here 
