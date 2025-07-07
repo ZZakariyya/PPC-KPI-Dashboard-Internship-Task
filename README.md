@@ -72,7 +72,7 @@ You may also build your own local database using the dataset in `/data`.
    - Scorecards showing your KPIs
 
 3. **Share the dashboard**:
-   - Grant access to `your.email@example.com` (or your actual Gmail)
+   - Grant access to `zakariyya.z@antetechnologies.com`
    - Copy and paste the dashboard link in your PR and in `/docs/README.md`
 
 ```markdown
