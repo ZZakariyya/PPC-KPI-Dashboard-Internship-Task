@@ -77,4 +77,4 @@ You may also build your own local database using the dataset in `/data`.
 
 ```markdown
 ### 📊 Dashboard Link
-[Click to View Dashboard](https://lookerstudio.google.com/reporting/your-dashboard-link)
+[Click to View Dashboard](https://lookerstudio.google.com/reporting/0acb519d-7372-422b-9919-400108466dc9)
