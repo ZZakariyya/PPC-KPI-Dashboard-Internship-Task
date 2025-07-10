@@ -1,6 +1,6 @@
 # PPC-KPI-Dashboard-Internship-Task
 
-Welcome to the official GitHub repository for the **Data Analyst Internship Task** at [Your Company Name].
+Welcome to the official GitHub repository for the **Data Analyst Internship Task** at Ante Technologies.
 
 This project simulates a real-world analytics scenario for a digital marketing team. Interns will work with pay-per-click (PPC) campaign data to:
 
@@ -77,4 +77,4 @@ You may also build your own local database using the dataset in `/data`.
 
 ```markdown
 ### 📊 Dashboard Link
-[Click to View Dashboard](https://lookerstudio.google.com/reporting/your-dashboard-link)
+[Click to View Dashboard](https://lookerstudio.google.com/reporting/3b7189e1-bbbd-4737-be9f-94d8ab47c3d0)
